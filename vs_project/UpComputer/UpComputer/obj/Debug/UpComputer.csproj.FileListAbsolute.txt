@@ -1,0 +1,113 @@
+D:\Users\Tea\Desktop\上位机\UpComputer\UpComputer\bin\Debug\UpComputer.exe.config
+D:\Users\Tea\Desktop\上位机\UpComputer\UpComputer\bin\Debug\UpComputer.exe
+D:\Users\Tea\Desktop\上位机\UpComputer\UpComputer\bin\Debug\UpComputer.pdb
+D:\Users\Tea\Desktop\上位机\UpComputer\UpComputer\bin\Debug\Interop.PCOMMSERVERLib.dll
+D:\Users\Tea\Desktop\上位机\UpComputer\UpComputer\bin\Debug\Interop.PMACSERVERLib.dll
+D:\Users\Tea\Desktop\上位机\UpComputer\UpComputer\obj\Debug\UpComputer.csproj.AssemblyReference.cache
+D:\Users\Tea\Desktop\上位机\UpComputer\UpComputer\obj\Debug\Interop.PCOMMSERVERLib.dll
+D:\Users\Tea\Desktop\上位机\UpComputer\UpComputer\obj\Debug\Interop.PMACSERVERLib.dll
+D:\Users\Tea\Desktop\上位机\UpComputer\UpComputer\obj\Debug\UpComputer.csproj.ResolveComReference.cache
+D:\Users\Tea\Desktop\上位机\UpComputer\UpComputer\obj\Debug\UpComputer.Form1.resources
+D:\Users\Tea\Desktop\上位机\UpComputer\UpComputer\obj\Debug\UpComputer.Properties.Resources.resources
+D:\Users\Tea\Desktop\上位机\UpComputer\UpComputer\obj\Debug\UpComputer.csproj.GenerateResource.cache
+D:\Users\Tea\Desktop\上位机\UpComputer\UpComputer\obj\Debug\UpComputer.csproj.CoreCompileInputs.cache
+D:\Users\Tea\Desktop\上位机\UpComputer\UpComputer\obj\Debug\UpComputer.exe
+D:\Users\Tea\Desktop\上位机\UpComputer\UpComputer\obj\Debug\UpComputer.pdb
+D:\Users\Tea\Desktop\上位机\Project\UpComputer\UpComputer\bin\Debug\UpComputer.exe.config
+D:\Users\Tea\Desktop\上位机\Project\UpComputer\UpComputer\bin\Debug\UpComputer.exe
+D:\Users\Tea\Desktop\上位机\Project\UpComputer\UpComputer\bin\Debug\UpComputer.pdb
+D:\Users\Tea\Desktop\上位机\Project\UpComputer\UpComputer\bin\Debug\Interop.PCOMMSERVERLib.dll
+D:\Users\Tea\Desktop\上位机\Project\UpComputer\UpComputer\obj\Debug\UpComputer.csproj.AssemblyReference.cache
+D:\Users\Tea\Desktop\上位机\Project\UpComputer\UpComputer\obj\Debug\Interop.PCOMMSERVERLib.dll
+D:\Users\Tea\Desktop\上位机\Project\UpComputer\UpComputer\obj\Debug\UpComputer.csproj.ResolveComReference.cache
+D:\Users\Tea\Desktop\上位机\Project\UpComputer\UpComputer\obj\Debug\UpComputer.Form1.resources
+D:\Users\Tea\Desktop\上位机\Project\UpComputer\UpComputer\obj\Debug\UpComputer.Properties.Resources.resources
+D:\Users\Tea\Desktop\上位机\Project\UpComputer\UpComputer\obj\Debug\UpComputer.csproj.GenerateResource.cache
+D:\Users\Tea\Desktop\上位机\Project\UpComputer\UpComputer\obj\Debug\UpComputer.csproj.CoreCompileInputs.cache
+D:\Users\Tea\Desktop\上位机\Project\UpComputer\UpComputer\obj\Debug\UpComputer.exe
+D:\Users\Tea\Desktop\上位机\Project\UpComputer\UpComputer\obj\Debug\UpComputer.pdb
+D:\Users\Tea\Desktop\上位机\Project\UpComputer\UpComputer\obj\Debug\UpComputer.Form2.resources
+C:\Users\administrator\Desktop\project_V1.4\UpComputer\UpComputer\obj\Debug\UpComputer.csproj.AssemblyReference.cache
+C:\Users\administrator\Desktop\project_V1.4\UpComputer\UpComputer\obj\Debug\UpComputer.csproj.ResolveComReference.cache
+C:\Users\administrator\Desktop\project_V1.4\UpComputer\UpComputer\obj\Debug\UpComputer.Form1.resources
+C:\Users\administrator\Desktop\project_V1.4\UpComputer\UpComputer\obj\Debug\UpComputer.Form2.resources
+C:\Users\administrator\Desktop\project_V1.4\UpComputer\UpComputer\obj\Debug\UpComputer.Properties.Resources.resources
+C:\Users\administrator\Desktop\project_V1.4\UpComputer\UpComputer\obj\Debug\UpComputer.csproj.GenerateResource.cache
+C:\Users\administrator\Desktop\project_V1.4\UpComputer\UpComputer\obj\Debug\UpComputer.csproj.CoreCompileInputs.cache
+C:\Users\administrator\Desktop\project_V1.4\UpComputer\UpComputer\obj\Debug\UpComputer.exe
+C:\Users\administrator\Desktop\project_V1.4\UpComputer\UpComputer\obj\Debug\UpComputer.pdb
+C:\Users\administrator\Desktop\project_V1.4\UpComputer\UpComputer\bin\Debug\UpComputer.exe.config
+C:\Users\administrator\Desktop\project_V1.4\UpComputer\UpComputer\bin\Debug\UpComputer.exe
+C:\Users\administrator\Desktop\project_V1.4\UpComputer\UpComputer\bin\Debug\UpComputer.pdb
+C:\Users\administrator\Desktop\project_V1.4\UpComputer\UpComputer\bin\Debug\Interop.PCOMMSERVERLib.dll
+C:\Users\administrator\Desktop\project_V1.4\UpComputer\UpComputer\obj\Debug\Interop.PCOMMSERVERLib.dll
+D:\Users\Tea\Desktop\上位机\第一阶段\Project\UpComputer\UpComputer\bin\Debug\UpComputer.exe.config
+D:\Users\Tea\Desktop\上位机\第一阶段\Project\UpComputer\UpComputer\bin\Debug\UpComputer.exe
+D:\Users\Tea\Desktop\上位机\第一阶段\Project\UpComputer\UpComputer\bin\Debug\UpComputer.pdb
+D:\Users\Tea\Desktop\上位机\第一阶段\Project\UpComputer\UpComputer\bin\Debug\Interop.PCOMMSERVERLib.dll
+D:\Users\Tea\Desktop\上位机\第一阶段\Project\UpComputer\UpComputer\obj\Debug\UpComputer.csproj.AssemblyReference.cache
+D:\Users\Tea\Desktop\上位机\第一阶段\Project\UpComputer\UpComputer\obj\Debug\Interop.PCOMMSERVERLib.dll
+D:\Users\Tea\Desktop\上位机\第一阶段\Project\UpComputer\UpComputer\obj\Debug\UpComputer.csproj.ResolveComReference.cache
+D:\Users\Tea\Desktop\上位机\第一阶段\Project\UpComputer\UpComputer\obj\Debug\UpComputer.Form1.resources
+D:\Users\Tea\Desktop\上位机\第一阶段\Project\UpComputer\UpComputer\obj\Debug\UpComputer.Form2.resources
+D:\Users\Tea\Desktop\上位机\第一阶段\Project\UpComputer\UpComputer\obj\Debug\UpComputer.Properties.Resources.resources
+D:\Users\Tea\Desktop\上位机\第一阶段\Project\UpComputer\UpComputer\obj\Debug\UpComputer.csproj.GenerateResource.cache
+D:\Users\Tea\Desktop\上位机\第一阶段\Project\UpComputer\UpComputer\obj\Debug\UpComputer.csproj.CoreCompileInputs.cache
+D:\Users\Tea\Desktop\上位机\第一阶段\Project\UpComputer\UpComputer\obj\Debug\UpComputer.exe
+D:\Users\Tea\Desktop\上位机\第一阶段\Project\UpComputer\UpComputer\obj\Debug\UpComputer.pdb
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer\UpComputer\bin\Debug\UpComputer.exe.config
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer\UpComputer\bin\Debug\UpComputer.exe.manifest
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer\UpComputer\bin\Debug\UpComputer.application
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer\UpComputer\bin\Debug\UpComputer.exe
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer\UpComputer\bin\Debug\UpComputer.pdb
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer\UpComputer\bin\Debug\Interop.PCOMMSERVERLib.dll
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer\UpComputer\obj\Debug\UpComputer.csproj.AssemblyReference.cache
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer\UpComputer\obj\Debug\Interop.PCOMMSERVERLib.dll
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer\UpComputer\obj\Debug\UpComputer.csproj.ResolveComReference.cache
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer\UpComputer\obj\Debug\UpComputer.Form1.resources
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer\UpComputer\obj\Debug\UpComputer.Form2.resources
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer\UpComputer\obj\Debug\UpComputer.Properties.Resources.resources
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer\UpComputer\obj\Debug\UpComputer.csproj.GenerateResource.cache
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer\UpComputer\obj\Debug\UpComputer.csproj.CoreCompileInputs.cache
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer\UpComputer\obj\Debug\UpComputer.exe.manifest
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer\UpComputer\obj\Debug\UpComputer.application
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer\UpComputer\obj\Debug\UpComputer.exe
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer\UpComputer\obj\Debug\UpComputer.pdb
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本\UpComputer\bin\Debug\UpComputer.exe.config
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本\UpComputer\bin\Debug\UpComputer.exe.manifest
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本\UpComputer\bin\Debug\UpComputer.application
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本\UpComputer\bin\Debug\UpComputer.exe
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本\UpComputer\bin\Debug\UpComputer.pdb
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本\UpComputer\bin\Debug\Interop.PCOMMSERVERLib.dll
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本\UpComputer\obj\Debug\UpComputer.csproj.AssemblyReference.cache
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本\UpComputer\obj\Debug\UpComputer.csproj.SuggestedBindingRedirects.cache
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本\UpComputer\obj\Debug\Interop.PCOMMSERVERLib.dll
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本\UpComputer\obj\Debug\UpComputer.csproj.ResolveComReference.cache
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本\UpComputer\obj\Debug\UpComputer.Form1.resources
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本\UpComputer\obj\Debug\UpComputer.Form2.resources
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本\UpComputer\obj\Debug\UpComputer.Properties.Resources.resources
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本\UpComputer\obj\Debug\UpComputer.csproj.GenerateResource.cache
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本\UpComputer\obj\Debug\UpComputer.csproj.CoreCompileInputs.cache
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本\UpComputer\obj\Debug\UpComputer.exe.manifest
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本\UpComputer\obj\Debug\UpComputer.application
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本\UpComputer\obj\Debug\UpComputer.exe
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本\UpComputer\obj\Debug\UpComputer.pdb
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本 - 副本\UpComputer\obj\Debug\UpComputer.csproj.AssemblyReference.cache
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本 - 副本\UpComputer\obj\Debug\UpComputer.csproj.SuggestedBindingRedirects.cache
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本 - 副本\UpComputer\obj\Debug\Interop.PCOMMSERVERLib.dll
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本 - 副本\UpComputer\obj\Debug\UpComputer.csproj.ResolveComReference.cache
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本 - 副本\UpComputer\obj\Debug\UpComputer.Form1.resources
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本 - 副本\UpComputer\obj\Debug\UpComputer.Form2.resources
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本 - 副本\UpComputer\obj\Debug\UpComputer.csproj.GenerateResource.cache
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本 - 副本\UpComputer\obj\Debug\UpComputer.exe
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本 - 副本\UpComputer\obj\Debug\UpComputer.pdb
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本 - 副本\UpComputer\bin\Debug\UpComputer.exe.config
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本 - 副本\UpComputer\bin\Debug\UpComputer.exe.manifest
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本 - 副本\UpComputer\bin\Debug\UpComputer.application
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本 - 副本\UpComputer\bin\Debug\UpComputer.exe
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本 - 副本\UpComputer\bin\Debug\UpComputer.pdb
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本 - 副本\UpComputer\bin\Debug\Interop.PCOMMSERVERLib.dll
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本 - 副本\UpComputer\obj\Debug\UpComputer.Properties.Resources.resources
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本 - 副本\UpComputer\obj\Debug\UpComputer.csproj.CoreCompileInputs.cache
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本 - 副本\UpComputer\obj\Debug\UpComputer.exe.manifest
+D:\Users\Tea\Desktop\二级项目-运行与控制\第一阶段\上位机\第一阶段\Project\UpComputer - 副本 - 副本\UpComputer\obj\Debug\UpComputer.application
