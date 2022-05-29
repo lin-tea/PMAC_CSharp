@@ -28,12 +28,12 @@
 - 程序的建立:
 	- 打开
 	<div align=center>
-		<img src="./images/setupproject.png" height="30%" witdh="30%"><img src="./images/setupproject1.png" height="30%" witdh="30%"></div>
+		<img src="./images/setupproject.png" height="55%" width="45%">  <img src="./images/setupproject1.png" height="40%" width="40%"></div>
 	
 - 引用Pcomserver.dll
 	- 在项目的`解决方案资源管理器`中的`引用`,右击，选择`添加引用`，在`COM`中找到Pcomserver,添加确定。
 	<div align=center>
-		<img src="./images/setupproject2.png" height="10%" witdh="10%"></div>
+		<img src="./images/setupproject2.png" height="45%" width="45%"></div>
 	
 - 在C#中的调用:
 	```c#
@@ -42,7 +42,7 @@
 	如果没报错，OK。
 	(注意：调用的dll属性，互嵌入操作需要改成false)  
 	<div align=center>
-		<img src="./images/embed.png" height="50%" witdh="50%"></div>  
+		<img src="./images/embed.png" height="30%" width="30%"></div>  
 		
 ## 主要函数使用:
 - 函数  
@@ -103,7 +103,7 @@ private void selectDevice_Click(object sender, EventArgs e)  //选择、连接PM
 -  GUI如下:  
 
 <div align=center>
-		<img src="./images/connectFront.png" height="20%" witdh="20%"></div>  
+		<img src="./images/connectFront.png" height="20%" width="20%"></div>  
 	
 
 ## Jog实现
